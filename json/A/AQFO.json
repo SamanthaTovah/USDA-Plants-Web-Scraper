@@ -1,7 +1,6 @@
 {
   "symbol": "AQFO",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "western columbine",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "After Harvest Regrowth Rate": "Moderate",
@@ -83,5 +82,22 @@
     "Protein Potential": "Medium",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herb"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Magnoliidae",
+    "Order": "Ranunculales",
+    "Family": "RanunculaceaeJuss.- Buttercup familyP",
+    "Genus": "AquilegiaL.- columbineP",
+    "Species": "Aquilegia formosaFisch. ex DC.- western columbineP"
   }
 }

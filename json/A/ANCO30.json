@@ -1,7 +1,6 @@
 {
   "symbol": "ANCO30",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "pineapple",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -78,5 +77,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herb"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Zingiberidae",
+    "Order": "Bromeliales",
+    "Family": "BromeliaceaeJuss.- Bromeliad familyP",
+    "Genus": "AnanasMill.- pineappleP",
+    "Species": "Ananas comosus(L.) Merr.- pineappleP"
   }
 }

@@ -1,7 +1,6 @@
 {
   "symbol": "ADFA",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "chamise",
   "traits": {
     "Active Growth Period": "Fall, Winter and Spring",
     "Bloat": "None",
@@ -81,5 +80,22 @@
     "Protein Potential": "Medium",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Shrub"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Rosales",
+    "Family": "RosaceaeJuss.- Rose familyP",
+    "Genus": "AdenostomaHook. & Arn.- chamiseP",
+    "Species": "Adenostoma fasciculatumHook. & Arn.- chamiseP"
   }
 }

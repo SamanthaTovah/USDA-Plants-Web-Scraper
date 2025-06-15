@@ -1,7 +1,6 @@
 {
   "symbol": "ANGL4",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "pond apple",
   "traits": {
     "Bloat": "None",
     "C:N Ratio": "Medium",
@@ -66,5 +65,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "ShrubTree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Magnoliidae",
+    "Order": "Magnoliales",
+    "Family": "AnnonaceaeJuss.- Custard-apple familyP",
+    "Genus": "AnnonaL.- annonaP",
+    "Species": "Annona glabraL.- pond appleP"
   }
 }

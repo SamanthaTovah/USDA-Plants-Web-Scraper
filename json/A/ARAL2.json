@@ -1,7 +1,6 @@
 {
   "symbol": "ARAL2",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "alpine bearberry",
   "traits": {
     "Bloat": "None",
     "C:N Ratio": "Medium",
@@ -72,5 +71,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Shrub"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Dilleniidae",
+    "Order": "Ericales",
+    "Family": "EricaceaeJuss.- Heath familyP",
+    "Genus": "ArctostaphylosAdans.- manzanitaP",
+    "Species": "Arctostaphylos alpina(L.) Spreng.- alpine bearberryP"
   }
 }

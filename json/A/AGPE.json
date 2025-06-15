@@ -1,7 +1,6 @@
 {
   "symbol": "AGPE",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "upland bentgrass",
   "traits": {
     "Active Growth Period": "Spring, Summer, Fall",
     "After Harvest Regrowth Rate": "Moderate",
@@ -82,5 +81,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Graminoid"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Commelinidae",
+    "Order": "Cyperales",
+    "Family": "PoaceaeBarnhart- Grass familyP",
+    "Genus": "AgrostisL.- bentgrassP",
+    "Species": "Agrostis perennans(Walter) Tuck.- upland bentgrassP"
   }
 }

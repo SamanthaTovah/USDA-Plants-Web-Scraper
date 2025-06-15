@@ -1,7 +1,6 @@
 {
   "symbol": "ALAC4",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "tapertip onion",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "After Harvest Regrowth Rate": "Rapid",
@@ -84,5 +83,22 @@
     "Protein Potential": "Medium",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herb"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Liliidae",
+    "Order": "Liliales",
+    "Family": "LiliaceaeJuss.- Lily familyP",
+    "Genus": "AlliumL.- onionP",
+    "Species": "Allium acuminatumHook.- tapertip onionP"
   }
 }

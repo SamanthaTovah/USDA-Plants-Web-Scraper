@@ -1,7 +1,6 @@
 {
   "symbol": "ALCA4",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "Carolina foxtail",
   "traits": {
     "Active Growth Period": "Spring",
     "After Harvest Regrowth Rate": "Slow",
@@ -81,5 +80,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Annual",
+    "Growth Habits": "Graminoid"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Commelinidae",
+    "Order": "Cyperales",
+    "Family": "PoaceaeBarnhart- Grass familyP",
+    "Genus": "AlopecurusL.- foxtailP",
+    "Species": "Alopecurus carolinianusWalter- Carolina foxtailP"
   }
 }

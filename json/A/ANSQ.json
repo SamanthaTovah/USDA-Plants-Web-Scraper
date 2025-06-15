@@ -1,7 +1,6 @@
 {
   "symbol": "ANSQ",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "sugar apple",
   "traits": {
     "Active Growth Period": "Summer and Fall",
     "Bloat": "None",
@@ -76,5 +75,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Magnoliidae",
+    "Order": "Magnoliales",
+    "Family": "AnnonaceaeJuss.- Custard-apple familyP",
+    "Genus": "AnnonaL.- annonaP",
+    "Species": "Annona squamosaL.- sugar appleP"
   }
 }

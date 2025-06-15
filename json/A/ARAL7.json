@@ -1,7 +1,6 @@
 {
   "symbol": "ARAL7",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "breadfruit",
   "traits": {
     "Active Growth Period": "Year Round",
     "Bloat": "None",
@@ -79,5 +78,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Hamamelididae",
+    "Order": "Urticales",
+    "Family": "MoraceaeGaudich.- Mulberry familyP",
+    "Genus": "ArtocarpusJ.R. Forst. & G. Forst.- breadfruitP",
+    "Species": "Artocarpus altilis(Parkinson) Fosberg- breadfruitP"
   }
 }

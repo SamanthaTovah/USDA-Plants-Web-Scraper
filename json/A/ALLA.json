@@ -1,7 +1,6 @@
 {
   "symbol": "ALLA",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "achiotillo",
   "traits": {
     "Active Growth Period": "Fall, Winter and Spring",
     "Bloat": "None",
@@ -62,5 +61,22 @@
     "Post Product": "Yes",
     "Pulpwood Product": "No",
     "Veneer Product": "Yes"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Euphorbiales",
+    "Family": "EuphorbiaceaeJuss.- Spurge familyP",
+    "Genus": "AlchorneaSw.- alchorneaP",
+    "Species": "Alchornea latifoliaSw.- achiotilloP"
   }
 }

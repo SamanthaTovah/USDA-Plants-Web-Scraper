@@ -1,7 +1,6 @@
 {
   "symbol": "ALRU2",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "red alder",
   "traits": {
     "Active Growth Period": "Spring, Summer, Fall",
     "Bloat": "None",
@@ -84,5 +83,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "Yes",
     "Veneer Product": "Yes"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Hamamelididae",
+    "Order": "Fagales",
+    "Family": "BetulaceaeGray- Birch familyP",
+    "Genus": "AlnusMill.- alderP",
+    "Species": "Alnus rubraBong.- red alderP"
   }
 }

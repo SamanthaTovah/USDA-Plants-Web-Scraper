@@ -1,7 +1,6 @@
 {
   "symbol": "FECA",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "California fescue",
   "traits": {
     "Active Growth Period": "Fall, Winter and Spring",
     "After Harvest Regrowth Rate": "Slow",
@@ -82,5 +81,23 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Graminoid",
+    "Fact Sheet": "docpdf"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Commelinidae",
+    "Order": "Cyperales",
+    "Family": "PoaceaeBarnhart- Grass familyP",
+    "Genus": "FestucaL.- fescueP",
+    "Species": "Festuca californicaVasey- California fescueP"
   }
 }

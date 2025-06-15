@@ -1,7 +1,6 @@
 {
   "symbol": "AMCA",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "California amaranth",
   "traits": {
     "Active Growth Period": "Spring, Summer, Fall",
     "After Harvest Regrowth Rate": "Moderate",
@@ -81,5 +80,22 @@
     "Protein Potential": "High",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Annual",
+    "Growth Habits": "Forb/herb"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Caryophyllidae",
+    "Order": "Caryophyllales",
+    "Family": "AmaranthaceaeMartinov- Amaranth familyP",
+    "Genus": "AmaranthusL.- pigweedP",
+    "Species": "Amaranthus californicus(Moq.) S. Watson- California amaranthP"
   }
 }

@@ -1,7 +1,6 @@
 {
   "symbol": "ACPE",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "striped maple",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -84,5 +83,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "ShrubTree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Sapindales",
+    "Family": "AceraceaeJuss.- Maple familyP",
+    "Genus": "AcerL.- mapleP",
+    "Species": "Acer pensylvanicumL.- striped mapleP"
   }
 }

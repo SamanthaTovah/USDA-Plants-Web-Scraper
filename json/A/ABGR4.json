@@ -1,7 +1,6 @@
 {
   "symbol": "ABGR4",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "glossy abelia",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -81,5 +80,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Shrub"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Asteridae",
+    "Order": "Dipsacales",
+    "Family": "CaprifoliaceaeJuss.- Honeysuckle familyP",
+    "Genus": "AbeliaR. Br.- abeliaP",
+    "Species": "Abelia \u00d7grandiflora(Rovelli ex Andr\u00e9) Rehder [chinensis \u00d7 uniflora]- glossy abeliaP"
   }
 }

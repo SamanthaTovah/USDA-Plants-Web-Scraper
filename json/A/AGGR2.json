@@ -1,7 +1,6 @@
 {
   "symbol": "AGGR2",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "tall hairy agrimony",
   "traits": {
     "Active Growth Period": "Spring",
     "After Harvest Regrowth Rate": "Moderate",
@@ -82,5 +81,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herb"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Rosales",
+    "Family": "RosaceaeJuss.- Rose familyP",
+    "Genus": "AgrimoniaL.- agrimonyP",
+    "Species": "Agrimonia gryposepalaWallr.- tall hairy agrimonyP"
   }
 }

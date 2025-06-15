@@ -1,7 +1,6 @@
 {
   "symbol": "ANIN",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "cabbagebark tree",
   "traits": {
     "Active Growth Period": "Year Round",
     "Bloat": "Medium",
@@ -82,5 +81,22 @@
     "Protein Potential": "Medium",
     "Pulpwood Product": "Yes",
     "Veneer Product": "Yes"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Fabales",
+    "Family": "FabaceaeLindl.- Pea familyP",
+    "Genus": "AndiraJuss.- andiraP",
+    "Species": "Andira inermis(W. Wright) Kunth ex DC.- cabbagebark treeP"
   }
 }

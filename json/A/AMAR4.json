@@ -1,7 +1,6 @@
 {
   "symbol": "AMAR4",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "European beachgrass",
   "traits": {
     "Active Growth Period": "Spring and Fall",
     "After Harvest Regrowth Rate": "Slow",
@@ -84,5 +83,23 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Graminoid",
+    "Other Common Names": "San Francisco grass"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Commelinidae",
+    "Order": "Cyperales",
+    "Family": "PoaceaeBarnhart- Grass familyP",
+    "Genus": "AmmophilaHost- beachgrassP",
+    "Species": "Ammophila arenaria(L.) Link- European beachgrassP"
   }
 }

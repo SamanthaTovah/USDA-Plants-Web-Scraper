@@ -1,7 +1,6 @@
 {
   "symbol": "ALGL2",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "European alder",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -85,5 +84,23 @@
     "Protein Potential": "High",
     "Pulpwood Product": "Yes",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree",
+    "Fact Sheet": "docpdf"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Hamamelididae",
+    "Order": "Fagales",
+    "Family": "BetulaceaeGray- Birch familyP",
+    "Genus": "AlnusMill.- alderP",
+    "Species": "Alnus glutinosa(L.) Gaertn.- European alderP"
   }
 }

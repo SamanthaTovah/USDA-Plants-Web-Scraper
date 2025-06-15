@@ -1,7 +1,6 @@
 {
   "symbol": "AMCO2",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "heartleaf peppervine",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -82,5 +81,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Vine"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Rhamnales",
+    "Family": "VitaceaeJuss.- Grape familyP",
+    "Genus": "AmpelopsisMichx.- peppervineP",
+    "Species": "Ampelopsis cordataMichx.- heartleaf peppervineP"
   }
 }

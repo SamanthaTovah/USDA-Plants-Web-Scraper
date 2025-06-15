@@ -1,7 +1,6 @@
 {
   "symbol": "ADCA",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "common maidenhair",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "After Harvest Regrowth Rate": "Slow",
@@ -82,5 +81,20 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Fern",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herb"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Division": "Pteridophyta- Ferns",
+    "Class": "Filicopsida",
+    "Order": "Polypodiales",
+    "Family": "PteridaceaeE.D.M. Kirchn.- Maidenhair Fern familyP",
+    "Genus": "AdiantumL.- maidenhair fernP",
+    "Species": "Adiantum capillus-venerisL.- common maidenhairP"
   }
 }

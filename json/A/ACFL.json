@@ -1,7 +1,6 @@
 {
   "symbol": "ACFL",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "southern sugar maple",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -82,5 +81,22 @@
     "Post Product": "No",
     "Pulpwood Product": "Yes",
     "Veneer Product": "Yes"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Sapindales",
+    "Family": "AceraceaeJuss.- Maple familyP",
+    "Genus": "AcerL.- mapleP",
+    "Species": "Acer floridanum(Chapm.) Pax- southern sugar mapleP"
   }
 }

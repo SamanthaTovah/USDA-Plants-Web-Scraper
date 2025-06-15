@@ -1,7 +1,6 @@
 {
   "symbol": "AGAM",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "American century plant",
   "traits": {
     "Active Growth Period": "Spring, Summer, Fall",
     "After Harvest Regrowth Rate": "Slow",
@@ -79,5 +78,22 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herbShrubSubshrub"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Liliidae",
+    "Order": "Liliales",
+    "Family": "AgavaceaeDumort.- Century-plant familyP",
+    "Genus": "AgaveL.- agaveP",
+    "Species": "Agave americanaL.- American century plantP"
   }
 }

@@ -1,7 +1,6 @@
 {
   "symbol": "ACMI2",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "common yarrow",
   "traits": {
     "Active Growth Period": "Spring",
     "After Harvest Regrowth Rate": "Moderate",
@@ -84,5 +83,23 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herb",
+    "Other Common Names": "milenramamilfoil"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Asteridae",
+    "Order": "Asterales",
+    "Family": "AsteraceaeBercht. & J. Presl- Aster familyP",
+    "Genus": "AchilleaL.- yarrowP",
+    "Species": "Achillea millefoliumL.- common yarrowP"
   }
 }

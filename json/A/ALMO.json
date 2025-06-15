@@ -1,7 +1,6 @@
 {
   "symbol": "ALMO",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "Indian walnut",
   "traits": {
     "Active Growth Period": "Year Round",
     "Bloat": "None",
@@ -81,5 +80,23 @@
     "Post Product": "No",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree",
+    "Other Common Names": "kukui"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Euphorbiales",
+    "Family": "EuphorbiaceaeJuss.- Spurge familyP",
+    "Genus": "AleuritesJ.R. Forst. & G. Forst.- aleuritesP",
+    "Species": "Aleurites moluccanus(L.) Willd.- Indian walnutP"
   }
 }

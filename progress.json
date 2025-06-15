@@ -17,7 +17,9 @@
   },
   "ABAM": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABAM2": {
     "done": true,
@@ -41,7 +43,9 @@
   },
   "ABBA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABBAB": {
     "done": true,
@@ -89,7 +93,9 @@
   },
   "ABCO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABEL": {
     "done": true,
@@ -117,7 +123,9 @@
   },
   "ABFR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABFR2": {
     "done": true,
@@ -129,7 +137,9 @@
   },
   "ABGR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABGR2": {
     "done": true,
@@ -141,7 +151,9 @@
   },
   "ABGR4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABGU": {
     "done": true,
@@ -193,7 +205,9 @@
   },
   "ABLA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABLA2": {
     "done": true,
@@ -213,7 +227,9 @@
   },
   "ABMA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABMA2": {
     "done": true,
@@ -241,7 +257,9 @@
   },
   "ABMAS": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABME": {
     "done": true,
@@ -321,7 +339,9 @@
   },
   "ABPR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ABPR3": {
     "done": true,
@@ -497,7 +517,9 @@
   },
   "ACAM": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACAM2": {
     "done": true,
@@ -821,7 +843,9 @@
   },
   "ACCA4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACCA5": {
     "done": true,
@@ -861,7 +885,9 @@
   },
   "ACCI": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACCI2": {
     "done": true,
@@ -941,7 +967,9 @@
   },
   "ACCO2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACCO20": {
     "done": true,
@@ -965,7 +993,9 @@
   },
   "ACCO4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACCO5": {
     "done": true,
@@ -973,7 +1003,9 @@
   },
   "ACCOC": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACCOC3": {
     "done": true,
@@ -981,7 +1013,9 @@
   },
   "ACCOP9": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACCOV2": {
     "done": true,
@@ -1013,7 +1047,9 @@
   },
   "ACCY2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACDA": {
     "done": true,
@@ -1201,7 +1237,9 @@
   },
   "ACFL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACFL6": {
     "done": true,
@@ -1245,11 +1283,15 @@
   },
   "ACGI": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACGL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACGL2": {
     "done": true,
@@ -1273,7 +1315,9 @@
   },
   "ACGLD4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACGLG": {
     "done": true,
@@ -1297,7 +1341,9 @@
   },
   "ACGR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACGR12": {
     "done": true,
@@ -1317,7 +1363,9 @@
   },
   "ACGR3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACGR9": {
     "done": true,
@@ -1329,7 +1377,9 @@
   },
   "ACGRG3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACGRS": {
     "done": true,
@@ -1421,7 +1471,9 @@
   },
   "ACHY": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACHYR": {
     "done": true,
@@ -1549,7 +1601,9 @@
   },
   "ACKO2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACLA10": {
     "done": true,
@@ -1585,7 +1639,9 @@
   },
   "ACLE9": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACLEI": {
     "done": true,
@@ -1593,7 +1649,9 @@
   },
   "ACLEL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACLEP": {
     "done": true,
@@ -1617,7 +1675,9 @@
   },
   "ACLO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACLO2": {
     "done": true,
@@ -1669,7 +1729,9 @@
   },
   "ACMA3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACMA4": {
     "done": true,
@@ -1681,7 +1743,9 @@
   },
   "ACME": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACME2": {
     "done": true,
@@ -1721,7 +1785,9 @@
   },
   "ACMI2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACMI3": {
     "done": true,
@@ -1861,7 +1927,9 @@
   },
   "ACNE2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACNE4": {
     "done": true,
@@ -1885,7 +1953,9 @@
   },
   "ACNED": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACNEI2": {
     "done": true,
@@ -1913,7 +1983,9 @@
   },
   "ACNI5": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACNI6": {
     "done": true,
@@ -1993,7 +2065,9 @@
   },
   "ACOCO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACOCP": {
     "done": true,
@@ -2033,7 +2107,9 @@
   },
   "ACOPR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACOR2": {
     "done": true,
@@ -2117,7 +2193,9 @@
   },
   "ACPE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACPE10": {
     "done": true,
@@ -2181,7 +2259,9 @@
   },
   "ACPL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACPO": {
     "done": true,
@@ -2233,7 +2313,9 @@
   },
   "ACPS": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACPT": {
     "done": true,
@@ -2413,7 +2495,9 @@
   },
   "ACRU": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACRU11": {
     "done": true,
@@ -2469,11 +2553,15 @@
   },
   "ACSA2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACSA3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACSA6": {
     "done": true,
@@ -2613,11 +2701,15 @@
   },
   "ACSP12": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACSP2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACSP4": {
     "done": true,
@@ -2765,7 +2857,9 @@
   },
   "ACTH7": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACTIN": {
     "done": true,
@@ -2877,7 +2971,9 @@
   },
   "ACVI": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ACVI10": {
     "done": true,
@@ -2985,7 +3081,9 @@
   },
   "ADCA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ADCA2": {
     "done": true,
@@ -3065,7 +3163,9 @@
   },
   "ADFA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ADFAF": {
     "done": true,
@@ -3205,7 +3305,9 @@
   },
   "ADPE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ADPE2": {
     "done": true,
@@ -3349,7 +3451,9 @@
   },
   "AECA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AECA2": {
     "done": true,
@@ -3405,7 +3509,9 @@
   },
   "AEFL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AEGE": {
     "done": true,
@@ -3425,7 +3531,9 @@
   },
   "AEGL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AEGLA": {
     "done": true,
@@ -3549,7 +3657,9 @@
   },
   "AEPA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AEPA2": {
     "done": true,
@@ -3621,7 +3731,9 @@
   },
   "AESY": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AETA2": {
     "done": true,
@@ -3749,7 +3861,9 @@
   },
   "AGAM": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGAMA": {
     "done": true,
@@ -3849,7 +3963,9 @@
   },
   "AGAU2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGAU3": {
     "done": true,
@@ -3909,11 +4025,15 @@
   },
   "AGCA4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGCA5": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGCA7": {
     "done": true,
@@ -4017,7 +4137,9 @@
   },
   "AGDE2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGDE3": {
     "done": true,
@@ -4089,7 +4211,9 @@
   },
   "AGEX": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGFA2": {
     "done": true,
@@ -4117,7 +4241,9 @@
   },
   "AGFR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGGA": {
     "done": true,
@@ -4129,11 +4255,15 @@
   },
   "AGGI2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGGL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGGL2": {
     "done": true,
@@ -4165,11 +4295,15 @@
   },
   "AGGR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGGR2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGGR4": {
     "done": true,
@@ -4241,7 +4375,9 @@
   },
   "AGHY": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGHY2": {
     "done": true,
@@ -4249,7 +4385,9 @@
   },
   "AGID": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGIN3": {
     "done": true,
@@ -4441,7 +4579,9 @@
   },
   "AGPA2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGPA3": {
     "done": true,
@@ -4457,11 +4597,15 @@
   },
   "AGPA6": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGPA8": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGPA9": {
     "done": true,
@@ -4513,7 +4657,9 @@
   },
   "AGPE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGPH": {
     "done": true,
@@ -4597,7 +4743,9 @@
   },
   "AGRO3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGRO4": {
     "done": true,
@@ -4649,7 +4797,9 @@
   },
   "AGSC5": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGSCS2": {
     "done": true,
@@ -4685,11 +4835,15 @@
   },
   "AGST": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGST2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGST4": {
     "done": true,
@@ -4749,7 +4903,9 @@
   },
   "AGUR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGURG": {
     "done": true,
@@ -4761,7 +4917,9 @@
   },
   "AGUT": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AGUTE": {
     "done": true,
@@ -4833,7 +4991,9 @@
   },
   "AIAL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AICA": {
     "done": true,
@@ -4905,7 +5065,9 @@
   },
   "AJRE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AJUGA": {
     "done": true,
@@ -4937,7 +5099,9 @@
   },
   "ALAC4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALAC8": {
     "done": true,
@@ -4953,7 +5117,9 @@
   },
   "ALAE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALAEA": {
     "done": true,
@@ -5037,7 +5203,9 @@
   },
   "ALAR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALAR8": {
     "done": true,
@@ -5205,7 +5373,9 @@
   },
   "ALCA4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALCA5": {
     "done": true,
@@ -5397,7 +5567,9 @@
   },
   "ALDO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALDR": {
     "done": true,
@@ -5545,7 +5717,9 @@
   },
   "ALGE2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALGEC": {
     "done": true,
@@ -5585,7 +5759,9 @@
   },
   "ALGL2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALGL3": {
     "done": true,
@@ -5605,7 +5781,9 @@
   },
   "ALGR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALGR2": {
     "done": true,
@@ -5729,7 +5907,9 @@
   },
   "ALIN2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALIN3": {
     "done": true,
@@ -5749,11 +5929,15 @@
   },
   "ALINR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALINT": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALINV2": {
     "done": true,
@@ -5773,7 +5957,9 @@
   },
   "ALJU": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALKA2": {
     "done": true,
@@ -5789,7 +5975,9 @@
   },
   "ALLA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALLA12": {
     "done": true,
@@ -5985,11 +6173,15 @@
   },
   "ALMA7": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALMA8": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALMA9": {
     "done": true,
@@ -6029,7 +6221,9 @@
   },
   "ALMO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALMO12": {
     "done": true,
@@ -6069,7 +6263,9 @@
   },
   "ALMY": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALNA4": {
     "done": true,
@@ -6289,7 +6485,9 @@
   },
   "ALPH": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALPHI": {
     "done": true,
@@ -6305,7 +6503,9 @@
   },
   "ALPL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALPL2": {
     "done": true,
@@ -6349,7 +6549,9 @@
   },
   "ALPR3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALPR6": {
     "done": true,
@@ -6393,7 +6595,9 @@
   },
   "ALRH2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALRI2": {
     "done": true,
@@ -6417,7 +6621,9 @@
   },
   "ALRU2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALRU4": {
     "done": true,
@@ -6509,7 +6715,9 @@
   },
   "ALSE2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALSE3": {
     "done": true,
@@ -6601,7 +6809,9 @@
   },
   "ALSU": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALSU10": {
     "done": true,
@@ -6625,7 +6835,9 @@
   },
   "ALTE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALTE12": {
     "done": true,
@@ -6657,7 +6869,9 @@
   },
   "ALTO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALTO2": {
     "done": true,
@@ -6745,7 +6959,9 @@
   },
   "ALVA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALVA2": {
     "done": true,
@@ -6801,7 +7017,9 @@
   },
   "ALVIC": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALVIC3": {
     "done": true,
@@ -6817,7 +7035,9 @@
   },
   "ALVIS": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ALVIV": {
     "done": true,
@@ -6881,7 +7101,9 @@
   },
   "AMAL2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMALA": {
     "done": true,
@@ -6897,7 +7119,9 @@
   },
   "AMALS": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMAM2": {
     "done": true,
@@ -6921,11 +7145,15 @@
   },
   "AMAR3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMAR4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMARA": {
     "done": true,
@@ -7049,7 +7277,9 @@
   },
   "AMBR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMBR5": {
     "done": true,
@@ -7077,7 +7307,9 @@
   },
   "AMCA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMCA13": {
     "done": true,
@@ -7097,7 +7329,9 @@
   },
   "AMCA4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMCA5": {
     "done": true,
@@ -7105,7 +7339,9 @@
   },
   "AMCA6": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMCA7": {
     "done": true,
@@ -7165,7 +7401,9 @@
   },
   "AMCO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMCO10": {
     "done": true,
@@ -7185,7 +7423,9 @@
   },
   "AMCO2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMCO3": {
     "done": true,
@@ -7249,7 +7489,9 @@
   },
   "AMDU2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMEA2": {
     "done": true,
@@ -7257,7 +7499,9 @@
   },
   "AMEL": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMEL60": {
     "done": true,
@@ -7289,7 +7533,9 @@
   },
   "AMFR": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMFR2": {
     "done": true,
@@ -7325,7 +7571,9 @@
   },
   "AMGL2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMGO": {
     "done": true,
@@ -7449,7 +7697,9 @@
   },
   "AMLA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMLA2": {
     "done": true,
@@ -7505,7 +7755,9 @@
   },
   "AMLY": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMMA": {
     "done": true,
@@ -7621,7 +7873,9 @@
   },
   "AMOB2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMOMU": {
     "done": true,
@@ -7829,7 +8083,9 @@
   },
   "AMSA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMSAG": {
     "done": true,
@@ -7989,7 +8245,9 @@
   },
   "AMTU": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMTU2": {
     "done": true,
@@ -7997,7 +8255,9 @@
   },
   "AMUT": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMUTC2": {
     "done": true,
@@ -8005,7 +8265,9 @@
   },
   "AMUTU": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AMVA": {
     "done": true,
@@ -8161,7 +8423,9 @@
   },
   "ANAN2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANAN4": {
     "done": true,
@@ -8201,7 +8465,9 @@
   },
   "ANAR3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANAR4": {
     "done": true,
@@ -8345,7 +8611,9 @@
   },
   "ANCA10": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANCA11": {
     "done": true,
@@ -8461,7 +8729,9 @@
   },
   "ANCO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANCO2": {
     "done": true,
@@ -8481,7 +8751,9 @@
   },
   "ANCO30": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANCO36": {
     "done": true,
@@ -8561,7 +8833,9 @@
   },
   "ANDI2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANDI3": {
     "done": true,
@@ -8785,7 +9059,9 @@
   },
   "ANGE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANGE2": {
     "done": true,
@@ -8813,11 +9089,15 @@
   },
   "ANGL2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANGL4": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANGLG2": {
     "done": true,
@@ -8865,7 +9145,9 @@
   },
   "ANHA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANHE": {
     "done": true,
@@ -8937,7 +9219,9 @@
   },
   "ANIN": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANIN10": {
     "done": true,
@@ -9097,7 +9381,9 @@
   },
   "ANLU2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANLU3": {
     "done": true,
@@ -9117,7 +9403,9 @@
   },
   "ANMA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANMA14": {
     "done": true,
@@ -9197,7 +9485,9 @@
   },
   "ANMI3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANMI4": {
     "done": true,
@@ -9261,11 +9551,15 @@
   },
   "ANMU": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANMU2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANMU4": {
     "done": true,
@@ -9313,7 +9607,9 @@
   },
   "ANNE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANNE10": {
     "done": true,
@@ -9613,7 +9909,9 @@
   },
   "ANRE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANRE2": {
     "done": true,
@@ -9801,7 +10099,9 @@
   },
   "ANSQ": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANST2": {
     "done": true,
@@ -9849,7 +10149,9 @@
   },
   "ANTE2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANTE8": {
     "done": true,
@@ -9877,7 +10179,9 @@
   },
   "ANTH2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANTH3": {
     "done": true,
@@ -10045,7 +10349,9 @@
   },
   "ANVI2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ANVI3": {
     "done": true,
@@ -10121,7 +10427,9 @@
   },
   "APAM": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "APAN": {
     "done": true,
@@ -10145,7 +10453,9 @@
   },
   "APCA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "APCH": {
     "done": true,
@@ -10417,7 +10727,9 @@
   },
   "AQCO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AQCOA": {
     "done": true,
@@ -10477,7 +10789,9 @@
   },
   "AQFO": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "AQGR": {
     "done": true,
@@ -10649,7 +10963,9 @@
   },
   "ARAL2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ARAL22": {
     "done": true,
@@ -10697,7 +11013,9 @@
   },
   "ARAL7": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "ARAL8": {
     "done": true,
@@ -23561,7 +23879,9 @@
   },
   "BOCU": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "BOCU2": {
     "done": false,
@@ -23713,7 +24033,9 @@
   },
   "BOGR2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "BOGR3": {
     "done": false,
@@ -75753,7 +76075,9 @@
   },
   "FECA": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "FECA4": {
     "done": false,
@@ -129481,7 +129805,9 @@
   },
   "PAVI2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "PAVI3": {
     "done": false,
@@ -169665,7 +169991,9 @@
   },
   "SONU2": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "SONU4": {
     "done": false,
@@ -171145,7 +171473,9 @@
   },
   "SPHE": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "SPHE4": {
     "done": false,
@@ -171929,7 +172259,9 @@
   },
   "SPSP": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "SPSP2": {
     "done": false,
@@ -181585,7 +181917,9 @@
   },
   "TRDA3": {
     "done": true,
-    "has_data": true
+    "has_data": true,
+    "has_data_secondary": true,
+    "done_secondary": true
   },
   "TRDA4": {
     "done": false,

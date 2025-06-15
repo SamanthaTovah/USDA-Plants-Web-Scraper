@@ -1,7 +1,6 @@
 {
   "symbol": "ABBA",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "balsam fir",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -84,5 +83,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "Yes",
     "Veneer Product": "Yes"
+  },
+  "general_information": {
+    "Group": "Gymnosperm",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree",
+    "Fact Sheet": "docpdf"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Coniferophyta- Conifers",
+    "Class": "Pinopsida",
+    "Order": "Pinales",
+    "Family": "PinaceaeSpreng. ex Rudolphi- Pine familyP",
+    "Genus": "AbiesMill.- firP",
+    "Species": "Abies balsamea(L.) Mill.- balsam firP"
   }
 }

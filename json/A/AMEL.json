@@ -1,7 +1,6 @@
 {
   "symbol": "AMEL",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "sea torchwood",
   "traits": {
     "Active Growth Period": "Fall",
     "Bloat": "None",
@@ -77,5 +76,22 @@
     "Post Product": "Yes",
     "Pulpwood Product": "Yes",
     "Veneer Product": "Yes"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "ShrubTree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Sapindales",
+    "Family": "RutaceaeJuss.- Rue familyP",
+    "Genus": "AmyrisP. Br.- torchwoodP",
+    "Species": "Amyris elemiferaL.- sea torchwoodP"
   }
 }

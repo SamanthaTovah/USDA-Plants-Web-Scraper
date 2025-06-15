@@ -1,7 +1,6 @@
 {
   "symbol": "AMGL2",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "mountain false indigo",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -84,5 +83,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Shrub"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Fabales",
+    "Family": "FabaceaeLindl.- Pea familyP",
+    "Genus": "AmorphaL.- false indigoP",
+    "Species": "Amorpha glabraDesf. ex Poir.- mountain false indigoP"
   }
 }

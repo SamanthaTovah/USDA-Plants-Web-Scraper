@@ -1,7 +1,6 @@
 {
   "symbol": "SPHE",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "prairie dropseed",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "After Harvest Regrowth Rate": "Slow",
@@ -82,5 +81,22 @@
     "Protein Potential": "Medium",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Graminoid"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Commelinidae",
+    "Order": "Cyperales",
+    "Family": "PoaceaeBarnhart- Grass familyP",
+    "Genus": "SporobolusR. Br.- dropseedP",
+    "Species": "Sporobolus heterolepis(A. Gray) A. Gray- prairie dropseedP"
   }
 }

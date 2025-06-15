@@ -1,7 +1,6 @@
 {
   "symbol": "ANHA",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "sand bluestem",
   "traits": {
     "Active Growth Period": "Summer",
     "After Harvest Regrowth Rate": "Moderate",
@@ -82,5 +81,23 @@
     "Protein Potential": "Medium",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Graminoid",
+    "Fact Sheet": "docpdf"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Commelinidae",
+    "Order": "Cyperales",
+    "Family": "PoaceaeBarnhart- Grass familyP",
+    "Genus": "AndropogonL.- bluestemP",
+    "Species": "Andropogon halliiHack.- sand bluestemP"
   }
 }

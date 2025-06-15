@@ -1,7 +1,6 @@
 {
   "symbol": "ALDO",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "Douglas' onion",
   "traits": {
     "Active Growth Period": "Spring",
     "After Harvest Regrowth Rate": "Slow",
@@ -83,5 +82,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herb"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Liliidae",
+    "Order": "Liliales",
+    "Family": "LiliaceaeJuss.- Lily familyP",
+    "Genus": "AlliumL.- onionP",
+    "Species": "Allium douglasiiHook.- Douglas' onionP"
   }
 }

@@ -1,7 +1,6 @@
 {
   "symbol": "ACNE2",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "boxelder",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -85,5 +84,23 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "Yes",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree",
+    "Other Common Names": "ash-leaf maplethree-leaf maple"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Sapindales",
+    "Family": "AceraceaeJuss.- Maple familyP",
+    "Genus": "AcerL.- mapleP",
+    "Species": "Acer negundoL.- boxelderP"
   }
 }

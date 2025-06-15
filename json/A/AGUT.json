@@ -1,7 +1,6 @@
 {
   "symbol": "AGUT",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "Utah agave",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -84,5 +83,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herbShrubSubshrub"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Liliidae",
+    "Order": "Liliales",
+    "Family": "AgavaceaeDumort.- Century-plant familyP",
+    "Genus": "AgaveL.- agaveP",
+    "Species": "Agave utahensisEngelm.- Utah agaveP"
   }
 }

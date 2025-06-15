@@ -1,7 +1,6 @@
 {
   "symbol": "AEPA",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "red buckeye",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -85,5 +84,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "ShrubTree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Sapindales",
+    "Family": "HippocastanaceaeA. Rich.- Horse-chestnut familyP",
+    "Genus": "AesculusL.- buckeyeP",
+    "Species": "Aesculus paviaL.- red buckeyeP"
   }
 }

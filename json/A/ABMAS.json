@@ -1,7 +1,6 @@
 {
   "symbol": "ABMAS",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "Shasta red fir",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -84,5 +83,22 @@
     "Post Product": "No",
     "Pulpwood Product": "Yes",
     "Veneer Product": "Yes"
+  },
+  "general_information": {
+    "Group": "Gymnosperm",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Coniferophyta- Conifers",
+    "Class": "Pinopsida",
+    "Order": "Pinales",
+    "Family": "PinaceaeSpreng. ex Rudolphi- Pine familyP",
+    "Genus": "AbiesMill.- firP",
+    "Species": "Abies magnificaA. Murray bis- California red firP",
+    "Variety": "Abies magnificaA. Murray bis var.shastensisLemmon- Shasta red firP"
   }
 }

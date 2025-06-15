@@ -1,7 +1,6 @@
 {
   "symbol": "ACCA4",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "calamus",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "After Harvest Regrowth Rate": "Moderate",
@@ -84,5 +83,23 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Forb/herb",
+    "Fact Sheet": "docpdf"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Arecidae",
+    "Order": "Arales",
+    "Family": "AcoraceaeMartinov- Calamus familyP",
+    "Genus": "AcorusL.- sweetflagP",
+    "Species": "Acorus calamusL.- calamusP"
   }
 }

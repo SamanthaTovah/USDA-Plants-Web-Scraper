@@ -1,7 +1,6 @@
 {
   "symbol": "ALVIS",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "Sitka alder",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "Low",
@@ -84,5 +83,24 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "ShrubTree",
+    "Fact Sheet": "docpdf"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Hamamelididae",
+    "Order": "Fagales",
+    "Family": "BetulaceaeGray- Birch familyP",
+    "Genus": "AlnusMill.- alderP",
+    "Species": "Alnus viridis(Chaix) DC.- green alderP",
+    "Subspecies": "Alnus viridis(Chaix) DC. ssp.sinuata(Regel) \u00c1. L\u00f6ve & D. L\u00f6ve- Sitka alderP"
   }
 }

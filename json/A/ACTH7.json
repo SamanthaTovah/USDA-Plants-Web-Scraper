@@ -1,7 +1,6 @@
 {
   "symbol": "ACTH7",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "Thurber's needlegrass",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "After Harvest Regrowth Rate": "Slow",
@@ -82,5 +81,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Monocot",
+    "Duration": "Perennial",
+    "Growth Habits": "Graminoid"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Liliopsida- Monocotyledons",
+    "Subclass": "Commelinidae",
+    "Order": "Cyperales",
+    "Family": "PoaceaeBarnhart- Grass familyP",
+    "Genus": "AchnatherumP. Beauv.- needlegrassP",
+    "Species": "Achnatherum thurberianum(Piper) Barkworth- Thurber's needlegrassP"
   }
 }

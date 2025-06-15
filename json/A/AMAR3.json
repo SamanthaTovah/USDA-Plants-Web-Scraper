@@ -1,7 +1,6 @@
 {
   "symbol": "AMAR3",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "common serviceberry",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -83,5 +82,22 @@
     "Post Product": "No",
     "Pulpwood Product": "Yes",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "ShrubTree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Rosales",
+    "Family": "RosaceaeJuss.- Rose familyP",
+    "Genus": "AmelanchierMedik.- serviceberryP",
+    "Species": "Amelanchier arborea(Michx. f.) Fernald- common serviceberryP"
   }
 }

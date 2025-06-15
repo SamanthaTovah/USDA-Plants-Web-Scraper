@@ -1,7 +1,6 @@
 {
   "symbol": "ACVI",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "Virginia threeseed mercury",
   "traits": {
     "Active Growth Period": "Spring, Summer, Fall",
     "After Harvest Regrowth Rate": "Slow",
@@ -83,5 +82,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Annual",
+    "Growth Habits": "Forb/herb"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Euphorbiales",
+    "Family": "EuphorbiaceaeJuss.- Spurge familyP",
+    "Genus": "AcalyphaL.- copperleafP",
+    "Species": "Acalypha virginicaL.- Virginia threeseed mercuryP"
   }
 }

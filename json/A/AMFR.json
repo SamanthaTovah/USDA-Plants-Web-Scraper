@@ -1,7 +1,6 @@
 {
   "symbol": "AMFR",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "false indigo bush",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -84,5 +83,23 @@
     "Protein Potential": "Medium",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Shrub",
+    "Other Common Names": "desert false indigo"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Fabales",
+    "Family": "FabaceaeLindl.- Pea familyP",
+    "Genus": "AmorphaL.- false indigoP",
+    "Species": "Amorpha fruticosaL.- false indigo bushP"
   }
 }

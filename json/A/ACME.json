@@ -1,7 +1,6 @@
 {
   "symbol": "ACME",
-  "scientific_name": null,
-  "common_name": null,
+  "common_name": "blackwood",
   "traits": {
     "Active Growth Period": "Spring and Summer",
     "Bloat": "None",
@@ -83,5 +82,22 @@
     "Protein Potential": "Low",
     "Pulpwood Product": "No",
     "Veneer Product": "No"
+  },
+  "general_information": {
+    "Group": "Dicot",
+    "Duration": "Perennial",
+    "Growth Habits": "Tree"
+  },
+  "classification": {
+    "Kingdom": "Plantae- Plants",
+    "Subkingdom": "Tracheobionta- Vascular plants",
+    "Superdivision": "Spermatophyta- Seed plants",
+    "Division": "Magnoliophyta- Flowering plants",
+    "Class": "Magnoliopsida- Dicotyledons",
+    "Subclass": "Rosidae",
+    "Order": "Fabales",
+    "Family": "FabaceaeLindl.- Pea familyP",
+    "Genus": "AcaciaMill.- acaciaP",
+    "Species": "Acacia melanoxylonR. Br.- blackwoodP"
   }
 }
