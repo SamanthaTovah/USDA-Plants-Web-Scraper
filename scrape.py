@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import time
 from selenium import webdriver
@@ -42,21 +43,31 @@ def save_plant_data(symbol, traits, scientific_name=None, common_name=None):
             "traits": traits
         }, f, indent=2)
 
-# === Scrape each plant ===
-for symbol, info in progress.items():
-    if info.get("done"):
-        continue
+# === Prioritize symbols from CLI if present ===
+cli_symbols = [arg.upper() for arg in sys.argv[1:]]
+already_scraped = lambda s: progress[s].get("done") if s in progress else False
 
-    start_time = datetime.now()
+for s in cli_symbols:
+    if s not in progress:
+        print(f"❌ Symbol '{s}' not found in progress.json")
+    elif already_scraped(s):
+        print(f"⏭️  Symbol '{s}' already scraped, skipping")
 
+cli_queue = [s for s in cli_symbols if s in progress and not already_scraped(s)]
+main_queue = [s for s in progress if s not in cli_queue and not already_scraped(s)]
+ordered_symbols = cli_queue + main_queue
+
+# === Scrape loop ===
+for symbol in ordered_symbols:
     url = f"https://plants.usda.gov/plant-profile/{symbol}/characteristics"
     print(f"\n🌱 Scraping: {symbol} → {url}")
+    start_time = datetime.now()
+
     driver.get(url)
     time.sleep(1.5)
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
     wrapper = soup.select_one("div#characteristics")
-
     traits = {}
 
     if wrapper:
@@ -82,24 +93,19 @@ for symbol, info in progress.items():
         progress[symbol]["has_data"] = False
 
     progress[symbol]["done"] = True
+    save_progress()
 
-    # Show progress bar
-    total = len(progress)
+    # Progress and ETA
     done = sum(1 for p in progress.values() if p.get("done"))
+    total = len(progress)
     percent = round((done / total) * 100, 1)
     print(f"📊 Progress: {done}/{total} plants scraped ({percent}%)")
 
-    save_progress()
-
-    # === Track time and estimate ETA
     SCRAPE_TIMES.append((datetime.now() - start_time).total_seconds())
-    avg_time = sum(SCRAPE_TIMES) / len(SCRAPE_TIMES) if SCRAPE_TIMES else 0
-    remaining = total - done
-    eta_sec = int(avg_time * remaining)
-
+    avg_time = sum(SCRAPE_TIMES) / len(SCRAPE_TIMES)
+    eta_sec = int(avg_time * (total - done))
     eta_hr, rem = divmod(eta_sec, 3600)
     eta_min, eta_sec = divmod(rem, 60)
-
     print(f"⏳ ETA: {eta_hr}h {eta_min}m {eta_sec}s remaining")
 
 driver.quit()
