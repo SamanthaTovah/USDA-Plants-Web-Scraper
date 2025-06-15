@@ -1,11 +1,12 @@
 import os
 import json
-import csv
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
+from collections import deque
+from datetime import datetime
 
 # === CONFIG ===
 CHROMEDRIVER_PATH = "E:/ChromeDriver/chromedriver-win64/chromedriver.exe"
@@ -17,6 +18,8 @@ options = Options()
 options.add_argument("--headless")
 service = Service(CHROMEDRIVER_PATH)
 driver = webdriver.Chrome(service=service, options=options)
+
+SCRAPE_TIMES = deque(maxlen=100)
 
 # === Load progress.json ===
 with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
@@ -43,6 +46,8 @@ def save_plant_data(symbol, traits, scientific_name=None, common_name=None):
 for symbol, info in progress.items():
     if info.get("done"):
         continue
+
+    start_time = datetime.now()
 
     url = f"https://plants.usda.gov/plant-profile/{symbol}/characteristics"
     print(f"\n🌱 Scraping: {symbol} → {url}")
@@ -85,7 +90,17 @@ for symbol, info in progress.items():
     print(f"📊 Progress: {done}/{total} plants scraped ({percent}%)")
 
     save_progress()
-    time.sleep(0.2)
+
+    # === Track time and estimate ETA
+    SCRAPE_TIMES.append((datetime.now() - start_time).total_seconds())
+    avg_time = sum(SCRAPE_TIMES) / len(SCRAPE_TIMES) if SCRAPE_TIMES else 0
+    remaining = total - done
+    eta_sec = int(avg_time * remaining)
+
+    eta_hr, rem = divmod(eta_sec, 3600)
+    eta_min, eta_sec = divmod(rem, 60)
+
+    print(f"⏳ ETA: {eta_hr}h {eta_min}m {eta_sec}s remaining")
 
 driver.quit()
 print("✅ All done!")
