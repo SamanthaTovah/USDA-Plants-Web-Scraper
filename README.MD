@@ -19,7 +19,7 @@ overgrazed-scraper/
 
 ## 🧪 Data Source
 
-- The `names.csv` file should be downloaded from the [USDA Characteristics Search](https://plants.usda.gov/characteristics-search) with **no filters applied**. It contains the full list of plants in the database.
+- The `names.csv` file should be downloaded from the [USDA Characteristics Search](https://plants.usda.gov/characteristics-search) with **no filters applied**. It contains the full list of plants in the database that have Characteristics, which is what this scraper is mainly meant to scrape.
 
 ## 📦 Included Data
 
@@ -39,9 +39,6 @@ However, these files are not required to use the project. If preferred, you can 
 - Scrapes plant data from the **main plant page** and its **characteristics page**
 - Stores data as `json/<first-letter-of-USDA-symbol>/<USDA-symbol>.json`
 - Uses `progress.json` to resume or continue scraping
-- **Skips**:
-  - Cultivars (entirely ignored)
-  - Species with no characteristics data
 
 ## ✅ Output Example
 
@@ -56,9 +53,9 @@ json/
 ## ❌ Exclusions
 
 - Cultivars are **never** stored  
-- Species without characteristics data are skipped
+- Species without characteristics data are skipped (they should not be in names.csv to begin with)
 
-These cases were excluded by design, as they were not relevant to the intended use. The scraper can be easily modified to include them if needed.
+These cases were excluded by design, as they were not relevant to the intended use. The scraper can be easily modified to include them if needed. If you want to include species without characteristics, you will need to download a version of ` names.csv` that contains those species.
 
 ## 🚀 Usage
 
