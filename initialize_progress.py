@@ -11,7 +11,7 @@ progress = OrderedDict()
 with open(input_csv, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        symbol = row["Symbol"].strip()
+        symbol = row["AcceptedSymbol"].strip()
         if symbol and symbol not in progress:
             progress[symbol] = {
                 "done": False,
