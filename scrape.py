@@ -52,39 +52,37 @@ for symbol, info in progress.items():
     soup = BeautifulSoup(driver.page_source, "html.parser")
     wrapper = soup.select_one("div#characteristics")
 
-    if not wrapper:
-        print("❌ No characteristics container found")
-        progress[symbol]["done"] = True
-        progress[symbol]["has_data"] = False
-        save_progress()
-        continue
-
-    tables = wrapper.find_all("table")
-
-    # Filter out cultivar tables
-    tables = [
-        t for t in tables
-        if not t.find("caption") or "cultivar" not in t.find("caption").get_text(strip=True).lower()
-    ]
-
     traits = {}
-    for table in tables:
-        for row in table.find_all("tr"):
-            cells = row.find_all("td")
-            if len(cells) == 2:
-                key = cells[0].get_text(strip=True)
-                value = cells[1].get_text(strip=True)
-                traits[key] = value
+
+    if wrapper:
+        tables = wrapper.find_all("table")
+        tables = [
+            t for t in tables
+            if not t.find("caption") or "cultivar" not in t.find("caption").get_text(strip=True).lower()
+        ]
+        for table in tables:
+            for row in table.find_all("tr"):
+                cells = row.find_all("td")
+                if len(cells) == 2:
+                    key = cells[0].get_text(strip=True)
+                    value = cells[1].get_text(strip=True)
+                    traits[key] = value
 
     if traits:
         print(f"✅ Found {len(traits)} traits for {symbol}")
         save_plant_data(symbol, traits)
-        progress[symbol]["done"] = True
         progress[symbol]["has_data"] = True
     else:
         print(f"⚠️ No data found for {symbol}")
-        progress[symbol]["done"] = True
         progress[symbol]["has_data"] = False
+
+    progress[symbol]["done"] = True
+
+    # Show progress bar
+    total = len(progress)
+    done = sum(1 for p in progress.values() if p.get("done"))
+    percent = round((done / total) * 100, 1)
+    print(f"📊 Progress: {done}/{total} plants scraped ({percent}%)")
 
     save_progress()
     time.sleep(0.2)
